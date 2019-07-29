@@ -1,0 +1,4 @@
+io\jlabs\movieinfoservice\resources\MovieResource.class
+io\jlabs\movieinfoservice\model\Movie.class
+io\jlabs\movieinfoservice\model\MovieSummary.class
+io\jlabs\movieinfoservice\MovieInfoMicroserviceApplication.class
