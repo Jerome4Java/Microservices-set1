@@ -1,0 +1,6 @@
+io\jlabs\moviecatalogservice\model\UserRating.class
+io\jlabs\moviecatalogservice\model\Movie.class
+io\jlabs\moviecatalogservice\model\Rating.class
+io\jlabs\moviecatalogservice\resource\MovieCatelogResource.class
+io\jlabs\moviecatalogservice\model\Catalog.class
+io\jlabs\moviecatalogservice\MovieCatalogMicroserviceApplication.class
