@@ -1,0 +1,4 @@
+io\jlabs\ratingdataservice\model\UserRating.class
+io\jlabs\ratingdataservice\RatingDataMicroserviceApplication.class
+io\jlabs\ratingdataservice\model\Rating.class
+io\jlabs\ratingdataservice\resource\RatingResource.class
